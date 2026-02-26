@@ -1,5 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Ma Chaine 1
+#EXTINF:-1, TF1
 https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
-#EXTINF:-1, Ma Chaine 2
+#EXTINF:-1, France 2
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1, France 3
+
+#EXTINF:-1, France 4
+
+#EXTINF:-1, France 5
+
+#EXTINF:-1, France 6
+
+#EXTINF:-1, France 7
