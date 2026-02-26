@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="TNT",TF1
 https://tvradiozap.eu/tools/np-m3u8.php/tf1hd
 #EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png" group-title="TNT",FRANCE 2
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france2.m3u8
+https://tvradiozap.eu/8b5ba1b0-9ff4-4d2d-8149-d735cc959648
 #EXTINF:-1 tvg-chno="3" tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-3-fr.png" group-title="TNT",FRANCE 3
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france3.m3u8
+https://tvradiozap.eu/0cc6fa01-2713-455b-87dc-e1811890f1c9
 #EXTINF:-1 tvg-chno="4" tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-4-fr.png" group-title="TNT",FRANCE 4
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france4.m3u8
+https://tvradiozap.eu/2d5d6b9c-e529-4809-a358-abbfde930e4c
 #EXTINF:-1 tvg-chno="5" tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-5-fr.png" group-title="TNT",FRANCE 5
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france5.m3u8
+blob:https://tvradiozap.eu/75aa8ae8-9818-415e-b3b8-b2e7bd133ade
 #EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" group-title="TNT",M6
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/arte-fr.png" group-title="TNT",ARTE
@@ -553,6 +553,7 @@ https://jmp2.uk/stvp-FR2600005LH
 https://simulcast-frmedias-b.ftven.fr/ZXhwPTE3NzIxNDcxNzV+YWNsPSUyZip+aG1hYz03NjgwM2YxZTdhMGI2MWQwYTdhMmIyOWZlYTFjOTVjOTc0OWEwYThlZWQxNzRmZTNjYjRjOTAwYzI5MTJkNGFk/simulcast/TV5_Monde/hls_tv5_monde/TV5_Monde-avc1_2500000=10001.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5947655,AVERAGE-BANDWIDTH=5406959,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="audio-AACL-96",SUBTITLES="text"
 https://simulcast-frmedias-b.ftven.fr/ZXhwPTE3NzIxNDcxNzV+YWNsPSUyZip+aG1hYz03NjgwM2YxZTdhMGI2MWQwYTdhMmIyOWZlYTFjOTVjOTc0OWEwYThlZWQxNzRmZTNjYjRjOTAwYzI5MTJkNGFk/simulcast/TV5_Monde/hls_tv5_monde/TV5_Monde-avc1_5000000=10000.m3u8
+
 
 
 
