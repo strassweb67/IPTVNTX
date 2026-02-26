@@ -3,12 +3,13 @@
 https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
 #EXTINF:-1, France 2
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1, France 3
-
-#EXTINF:-1, France 4
-
+#EXTINF:-1, ACC Network
+FREE M3U Playlist url: https://tvpass.org/playlist/m3u
+#EXTINF:-1, CNN
+FREE M3U Playlist url: https://tvpass.org/playlist/m3u
 #EXTINF:-1, France 5
 
 #EXTINF:-1, France 6
 
 #EXTINF:-1, France 7
+
