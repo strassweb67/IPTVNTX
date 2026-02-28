@@ -2,8 +2,6 @@
 
 
 #EXTM3U
-#EXTINF:-1,Avatar  - ناطق بالعربية
-http://newtube.ps/components/com_contushdvideoshare/videos/3098_video.mp4
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="TNT",TF1
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png" group-title="TNT",FRANCE 2
@@ -7515,6 +7513,7 @@ http://streaming.radionomy.com/-RadioRfmTunisia-
 
 #EXTINF:-1 tvg-name="TN_Elyssa-FM" tvg-id="elyssafm.tn" group-title="TOUNSI" tvg-logo="http://www.elyssafm.tn/images/logopt.jpg",TN_Elyssa-FM
 http://stream8.tanitweb.com/elyssafm
+
 
 
 
